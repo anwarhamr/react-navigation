@@ -46,7 +46,7 @@
     "whatwg-fetch": "1.0.0"
   },
   "dependencies": {
-    "@blueprintjs/core": "^1.0.1",
+    "@blueprintjs/core": "^1.40.0",
     "prismjs": "^1.6.0",
     "prop-types": "^15.5.10",
     "react": "~15.3.2",
