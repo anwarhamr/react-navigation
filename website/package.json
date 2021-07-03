@@ -49,9 +49,9 @@
     "@blueprintjs/core": "^1.0.1",
     "prismjs": "^1.6.0",
     "prop-types": "^15.5.10",
-    "react": "~15.3.2",
+    "react": "~15.7.0",
     "react-addons-css-transition-group": "~15.3.2",
-    "react-dom": "~15.3.2",
+    "react-dom": "~15.7.0",
     "react-markdown": "^2.4.2",
     "react-navigation": "^0.0.0",
     "slugify": "^1.1.0"
