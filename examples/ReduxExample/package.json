@@ -22,7 +22,7 @@
     ]
   },
   "dependencies": {
-    "expo": "^20.1.2",
+    "expo": "^49.0.0",
     "prop-types": "^15.5.10",
     "react": "16.0.0-alpha.12",
     "react-native": "~0.47.2",
